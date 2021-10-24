@@ -1,0 +1,22 @@
+body {
+  background-color: white;
+}
+.timer {
+  text-align: center;
+}
+.field {
+  display: inline-block;
+
+  font-size: 50px;
+  background-color: black;
+  width: 160px;
+  margin: 0 1px;
+  border-radius: 10px;
+  padding: 30px;
+}
+.value {
+  color: white;
+}
+.label {
+  color: white;
+}
