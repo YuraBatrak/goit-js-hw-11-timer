@@ -39,7 +39,7 @@ const secs = Math.floor((time % (1000 * 60)) / 1000);
 }
 const timer = new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('Jan 1, 2022'),
+  targetDate: new Date('Jan 2, 2022'),
 });
 
 timer.start();
